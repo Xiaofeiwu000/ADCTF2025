@@ -1,0 +1,72 @@
+[submodule "web/crossy-road"]
+	path = web/crossy-road
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Crossy-Road.git
+[submodule "ai/haavk-tree"]
+	path = ai/haavk-tree
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Haavk-Tree.git
+[submodule "misc/welcome-to-my-profile"]
+	path = misc/welcome-to-my-profile
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Welcome-to-My-Profile.git
+[submodule "misc/basehajimi"]
+	path = misc/basehajimi
+	url = https://github.com/GDUTMeow-Challenges/Challenge-BaseHajimi.git
+[submodule "web/y2k-bank"]
+	path = web/y2k-bank
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Y2K-Bank.git
+[submodule "web/worthit"]
+	path = web/worthit
+	url = https://github.com/GDUTMeow-Challenges/Challenge-WorthIt.git
+[submodule "ppc/plain-http-data"]
+	path = ppc/plain-http-data
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Plain-HTTP-Data.git
+[submodule "ppc/recover-orders"]
+	path = ppc/recover-orders
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Recover-Orders.git
+[submodule "forensic/dangerous-worm"]
+	path = forensic/dangerous-worm
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Dangerous-Worm.git
+[submodule "forensic/gering-ding-ding-ding"]
+	path = forensic/gering-ding-ding-ding
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Gering-ding-ding-ding.git
+[submodule "forensic/its-genshin-time"]
+	path = forensic/its-genshin-time
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Its-Genshin-Time.git
+[submodule "misc/click-the-circles"]
+	path = misc/click-the-circles
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Click-the-Circles.git
+[submodule "challenges/web/crossy-road"]
+	path = challenges/web/crossy-road
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Crossy-Road.git
+[submodule "challenges/web/y2k-bank"]
+	path = challenges/web/y2k-bank
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Y2K-Bank.git
+[submodule "challenges/web/worthit"]
+	path = challenges/web/worthit
+	url = https://github.com/GDUTMeow-Challenges/Challenge-WorthIt.git
+[submodule "challenges/ai/haavk-tree"]
+	path = challenges/ai/haavk-tree
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Haavk-Tree.git
+[submodule "challenges/misc/welcome-to-my-profile"]
+	path = challenges/misc/welcome-to-my-profile
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Welcome-to-My-Profile.git
+[submodule "challenges/misc/basehajimi"]
+	path = challenges/misc/basehajimi
+	url = https://github.com/GDUTMeow-Challenges/Challenge-BaseHajimi.git
+[submodule "challenges/misc/click-the-circles"]
+	path = challenges/misc/click-the-circles
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Click-the-Circles.git
+[submodule "challenges/ppc/plain-http-data"]
+	path = challenges/ppc/plain-http-data
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Plain-HTTP-Data.git
+[submodule "challenges/ppc/recover-orders"]
+	path = challenges/ppc/recover-orders
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Recover-Orders.git
+[submodule "challenges/forensic/dangerous-worm"]
+	path = challenges/forensic/dangerous-worm
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Dangerous-Worm.git
+[submodule "challenges/forensic/gering-ding-ding-ding"]
+	path = challenges/forensic/gering-ding-ding-ding
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Gering-ding-ding-ding.git
+[submodule "challenges/forensic/its-genshin-time"]
+	path = challenges/forensic/its-genshin-time
+	url = https://github.com/GDUTMeow-Challenges/Challenge-Its-Genshin-Time.git
