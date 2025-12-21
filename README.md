@@ -19,15 +19,15 @@
 
 | 题目名称           | 题目难度 | 题目仓库链接 | 出题人       |
 | ------------------ | -------- | ------------ | ------------ |
-| easy_encode1       | Easy     |              | 0            |
+| easy_encode1       | Easy     | https://github.com/Xiaofeiwu000/bacan.git | 0            |
 | mimaxt             | Easy     |              | Teru Shigure |
 | rickypto           | Easy     |              | Teru Shigure |
 | 合成 RKK           | Easy     |              | Teru Shigure |
-| 这家伙在说什么呢？ | Easy     |              | 0            |
+| 这家伙在说什么呢？ | Easy     | https://github.com/Xiaofeiwu000/bacan.git  | 0            |
 | codeforkk          | Hard     |              | Teru Shigure |
-| 九转矩阵RSA        | Hard     |              | 0            |
-| leak_dp            | Normal   |              | 0            |
-| strange_ECC        | Normal   |              | 0            |
+| 九转矩阵RSA        | Hard     | https://github.com/Xiaofeiwu000/bacan.git | 0            |
+| leak_dp            | Normal   | https://github.com/Xiaofeiwu000/bacan.git | 0            |
+| strange_ECC        | Normal   | https://github.com/Xiaofeiwu000/bacan.git | 0            |
 
 ### Forensics
 
