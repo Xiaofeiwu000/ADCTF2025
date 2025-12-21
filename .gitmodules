@@ -76,3 +76,6 @@
 [submodule "challenges/misc/test-your-knowledge"]
 	path = challenges/misc/test-your-knowledge
 	url = https://github.com/GDUTMeow-Challenges/Challenge-Test-Your-Knowledge.git
+[submodule "challenges/crypto/bacan"]
+	path = challenges/crypto/bacan
+	url = https://github.com/Xiaofeiwu000/bacan.git
