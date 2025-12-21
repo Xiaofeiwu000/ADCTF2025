@@ -79,3 +79,15 @@
 [submodule "challenges/crypto/bacan"]
 	path = challenges/crypto/bacan
 	url = https://github.com/Xiaofeiwu000/bacan.git
+[submodule "challenges/crypto/ECC"]
+	path = challenges/crypto/ECC
+	url = https://github.com/Xiaofeiwu000/ECC.git
+[submodule "challenges/crypto/XOR"]
+	path = challenges/crypto/XOR
+	url = https://github.com/Xiaofeiwu000/XOR.git
+[submodule "challenges/crypto/RSA"]
+	path = challenges/crypto/RSA
+	url = https://github.com/Xiaofeiwu000/RSA.git
+[submodule "challenges/crypto/matrix_RSA"]
+	path = challenges/crypto/matrix_RSA
+	url = https://github.com/Xiaofeiwu000/matrix_RSA.git
